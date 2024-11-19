@@ -1,0 +1,125 @@
+{
+  "Name": "SkirmishDemoRuleset",
+  "IsRostersPersistent": false,
+  "RosterIsCalled": "Band",
+  "FigurineIsCalled": "Hero",
+  "TerrainTypes": [
+    "Difficult",
+    "Dangerous",
+    "Covering",
+    "Dampening"
+  ],
+  "Dice": [
+    {
+      "DiceName": "D12",
+      "IsNumberDice": true,
+      "folderPath": "<DiceFolderPath>/D12"
+    }
+  ],
+  "PrimaryDiceRoll": {
+    "Item1": -1,
+    "Item2": -1
+  },
+  "SecondaryDiceRoll": {
+    "Item1": -1,
+    "Item2": -1
+  },
+  "Decks": [
+    {
+      "Name": "Wizard Events",
+      "OriginalDeckFolderPath": "E:\\RulesetFolder/SkirmishDemoRuleset/Deck - Wizard Events",
+      "CardBackFileName": "CardBack.png",
+      "CardFileNames": [
+        "Absorb Kinetuc energy.png",
+        "Arcane Ilisions.png",
+        "Channel Trough Other Mage.png",
+        "Eat Black Lotus.png",
+        "Element Mixup.png",
+        "Extend Reac.png",
+        "Fancy Hat.png",
+        "Gravity Rift.png",
+        "Increase AOe.png",
+        "Reverse Polarity.png",
+        "Strong Mana Field.png",
+        "Surprice summon.png",
+        "Surprise Sentience.png",
+        "Teleport.png"
+      ]
+    },
+    {
+      "Name": "Pirate Event Deck",
+      "OriginalDeckFolderPath": "E:\\RulesetFolder/SkirmishDemoRuleset/Deck - Pirate Event Deck",
+      "CardBackFileName": "CardBack.png",
+      "CardFileNames": [
+        "Black Spot Curse.png",
+        "Block Spell with the Rudder.png",
+        "DALL·E 2024-11-13 15.53.19 - Event card for a pirate-themed game titled _More Rum Behind the Book._ The vertical card (1024x1792) should feature an aged parchment background with .png",
+        "DALL·E 2024-11-13 15.53.54 - Event card for a pirate-themed game titled _Davy Jones' Locker._ The vertical card (1024x1792) should have an aged, ominous parchment background with .png",
+        "Dinner on TIme.png",
+        "Dodging Magic Missile.png",
+        "Dropped Cannon Ball.png",
+        "Dual wielding Compasses.png",
+        "Ex Marks the SPot.png",
+        "Help from the kraken.png",
+        "Hidden Pocket of Gun powder.png",
+        "Lucky Thrust.png",
+        "Plotting Course against the wind.png",
+        "Potting Course against the wind.png",
+        "Pushing the Ship.png",
+        "Rammin Speed.png",
+        "Rope Adventure.png",
+        "Tidal Wave.png"
+      ]
+    }
+  ],
+  "RosterResources": [
+    "Doubloons",
+    "Focus"
+  ],
+  "Bases": [
+    {
+      "Name": "Medium",
+      "Diameter": 30.0
+    },
+    {
+      "Name": "Big",
+      "Diameter": 45.0
+    }
+  ],
+  "hasFacing": false,
+  "hasFOV": false,
+  "FovAngle": 37,
+  "FigurineStatCardType": 0,
+  "Stats": [
+    {
+      "Name": "Mv",
+      "FallbackValue": "5",
+      "IsOnDefensiveStatLine": true,
+      "IsDefaultMovementStat": true
+    },
+    {
+      "Name": "Ag",
+      "FallbackValue": "4",
+      "IsOnDefensiveStatLine": true,
+      "IsDefaultMovementStat": false
+    },
+    {
+      "Name": "St",
+      "FallbackValue": "4",
+      "IsOnDefensiveStatLine": true,
+      "IsDefaultMovementStat": false
+    },
+    {
+      "Name": "Wis",
+      "FallbackValue": "",
+      "IsOnDefensiveStatLine": true,
+      "IsDefaultMovementStat": false
+    }
+  ],
+  "PlayerOneR": 0.270588249,
+  "PlayerOneG": 0.0156862754,
+  "PlayerOneB": 0.0156862754,
+  "PlayerTwoR": 0.0235294122,
+  "PlayerTwoG": 0.02745098,
+  "PlayerTwoB": 0.384313732
+}

@@ -1,0 +1,286 @@
+{
+    "Tables": [
+        {
+            "Name": "Mooks",
+            "MattName": "MattMan",
+            "TerrainPiecesOnTable": [
+                {
+                    "TerrainPieceName": "Annex",
+                    "Position": {
+                        "x": 13.943007469177246,
+                        "y": 0.0,
+                        "z": -16.196792602539064
+                    },
+                    "yRotation": 9.951811790466309
+                },
+                {
+                    "TerrainPieceName": "Fence - Gate",
+                    "Position": {
+                        "x": 8.16026496887207,
+                        "y": 0.0,
+                        "z": -13.278329849243164
+                    },
+                    "yRotation": 105.08341979980469
+                },
+                {
+                    "TerrainPieceName": "Fence - Pillar and Brick",
+                    "Position": {
+                        "x": 8.81915283203125,
+                        "y": 0.0,
+                        "z": -10.253591537475586
+                    },
+                    "yRotation": 282.4217529296875
+                },
+                {
+                    "TerrainPieceName": "Fence - Pillar and Brick",
+                    "Position": {
+                        "x": 9.552690505981446,
+                        "y": 0.0,
+                        "z": -7.320682048797607
+                    },
+                    "yRotation": 286.47393798828127
+                },
+                {
+                    "TerrainPieceName": "Fence - Pillar and Brick",
+                    "Position": {
+                        "x": 7.258911609649658,
+                        "y": 0.0,
+                        "z": -16.289657592773439
+                    },
+                    "yRotation": 104.21190643310547
+                },
+                {
+                    "TerrainPieceName": "Fence - Pillar and Brick",
+                    "Position": {
+                        "x": 6.640536785125732,
+                        "y": 0.0,
+                        "z": -19.430021286010743
+                    },
+                    "yRotation": 97.17827606201172
+                },
+                {
+                    "TerrainPieceName": "Fence - Pillar and Brick",
+                    "Position": {
+                        "x": 11.588683128356934,
+                        "y": 0.0,
+                        "z": -5.84489107131958
+                    },
+                    "yRotation": 0.5950164198875427
+                },
+                {
+                    "TerrainPieceName": "Fence - Pillar and Brick",
+                    "Position": {
+                        "x": 14.606339454650879,
+                        "y": 0.0,
+                        "z": -5.661332130432129
+                    },
+                    "yRotation": 351.81463623046877
+                },
+                {
+                    "TerrainPieceName": "Fence - Pillar and Brick",
+                    "Position": {
+                        "x": 17.62747573852539,
+                        "y": 0.0,
+                        "z": -5.7813825607299809
+                    },
+                    "yRotation": 15.106285095214844
+                },
+                {
+                    "TerrainPieceName": "Shop - Pirate",
+                    "Position": {
+                        "x": -11.558796882629395,
+                        "y": 0.0,
+                        "z": 7.509254455566406
+                    },
+                    "yRotation": 180.58416748046876
+                },
+                {
+                    "TerrainPieceName": "Shanty A",
+                    "Position": {
+                        "x": -15.32618236541748,
+                        "y": 0.0,
+                        "z": -6.264456748962402
+                    },
+                    "yRotation": 88.92913055419922
+                },
+                {
+                    "TerrainPieceName": "Shanty Bar",
+                    "Position": {
+                        "x": -3.4595189094543459,
+                        "y": 0.0,
+                        "z": -3.7970762252807619
+                    },
+                    "yRotation": 255.86465454101563
+                },
+                {
+                    "TerrainPieceName": "Crate A",
+                    "Position": {
+                        "x": -6.889375686645508,
+                        "y": 0.0,
+                        "z": 8.790919303894043
+                    },
+                    "yRotation": 0.0
+                },
+                {
+                    "TerrainPieceName": "Crate A",
+                    "Position": {
+                        "x": -7.489442348480225,
+                        "y": 0.0,
+                        "z": 7.663663864135742
+                    },
+                    "yRotation": 0.0
+                },
+                {
+                    "TerrainPieceName": "Crate A",
+                    "Position": {
+                        "x": -5.165672302246094,
+                        "y": 0.0,
+                        "z": -8.28852367401123
+                    },
+                    "yRotation": 0.0
+                },
+                {
+                    "TerrainPieceName": "Crate A",
+                    "Position": {
+                        "x": -3.9409306049346926,
+                        "y": 0.0,
+                        "z": -8.904443740844727
+                    },
+                    "yRotation": 0.0
+                },
+                {
+                    "TerrainPieceName": "Crate B",
+                    "Position": {
+                        "x": -12.187199592590332,
+                        "y": 0.0,
+                        "z": -8.881990432739258
+                    },
+                    "yRotation": 91.57545471191406
+                },
+                {
+                    "TerrainPieceName": "Wood Stack",
+                    "Position": {
+                        "x": -14.407191276550293,
+                        "y": 0.0,
+                        "z": -10.161145210266114
+                    },
+                    "yRotation": 171.73861694335938
+                },
+                {
+                    "TerrainPieceName": "Wood Stack",
+                    "Position": {
+                        "x": 18.147907257080079,
+                        "y": 0.0,
+                        "z": -14.998956680297852
+                    },
+                    "yRotation": 103.16547393798828
+                },
+                {
+                    "TerrainPieceName": "Swamp",
+                    "Position": {
+                        "x": 3.1372318267822267,
+                        "y": 0.0,
+                        "z": 13.567395210266114
+                    },
+                    "yRotation": 0.0
+                },
+                {
+                    "TerrainPieceName": "Skov",
+                    "Position": {
+                        "x": 1.1282424926757813,
+                        "y": 0.0,
+                        "z": -11.771430015563965
+                    },
+                    "yRotation": 41.852447509765628
+                },
+                {
+                    "TerrainPieceName": "Rowboat",
+                    "Position": {
+                        "x": 18.400705337524415,
+                        "y": 0.0,
+                        "z": 5.097648620605469
+                    },
+                    "yRotation": 23.613496780395509
+                },
+                {
+                    "TerrainPieceName": "Well - Semi Simple",
+                    "Position": {
+                        "x": 6.238500595092773,
+                        "y": 0.0,
+                        "z": 3.5212888717651369
+                    },
+                    "yRotation": 348.05120849609377
+                },
+                {
+                    "TerrainPieceName": "Crate B",
+                    "Position": {
+                        "x": 4.676036834716797,
+                        "y": 0.0,
+                        "z": 4.472945213317871
+                    },
+                    "yRotation": 92.96405792236328
+                },
+                {
+                    "TerrainPieceName": "Crate B",
+                    "Position": {
+                        "x": 6.846960067749023,
+                        "y": 0.0,
+                        "z": 5.242897033691406
+                    },
+                    "yRotation": 0.0
+                },
+                {
+                    "TerrainPieceName": "Fountain",
+                    "Position": {
+                        "x": 17.536842346191408,
+                        "y": 0.0,
+                        "z": -10.006246566772461
+                    },
+                    "yRotation": 0.0
+                },
+                {
+                    "TerrainPieceName": "Fence - Pillar and Brick",
+                    "Position": {
+                        "x": 19.954734802246095,
+                        "y": 0.0,
+                        "z": -7.336150169372559
+                    },
+                    "yRotation": 53.228633880615237
+                }
+            ]
+        },
+        {
+            "Name": "Drums",
+            "MattName": "MattMan",
+            "TerrainPiecesOnTable": [
+                {
+                    "TerrainPieceName": "Skov",
+                    "Position": {
+                        "x": 2.4815680980682375,
+                        "y": 0.0,
+                        "z": 0.4284029006958008
+                    },
+                    "yRotation": 0.0
+                },
+                {
+                    "TerrainPieceName": "Fence Gate",
+                    "Position": {
+                        "x": 2.3864731788635256,
+                        "y": 0.0,
+                        "z": 8.766510009765625
+                    },
+                    "yRotation": 0.0
+                },
+                {
+                    "TerrainPieceName": "Annex",
+                    "Position": {
+                        "x": -5.323356628417969,
+                        "y": 0.0,
+                        "z": 4.2817864418029789
+                    },
+                    "yRotation": 0.0
+                }
+            ]
+        }
+    ]
+}

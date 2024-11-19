@@ -1,0 +1,76 @@
+{
+  "Matts": [
+    {
+      "Name": "MattMan",
+      "ImagePath": "<MattFolderPath>/MattMan.png",
+      "SizeX": 42,
+      "SizeY": 42,
+      "StartingZones": [
+        {
+          "StartingZoneName": "Standard E-W",
+          "StartingZonePrimitiveDatas": [
+            {
+              "PrimitiveType": 3,
+              "PositionX": 0.0,
+              "PositionZ": 17.0,
+              "RotationY": 0.0,
+              "SizeX": 42.0,
+              "SizeZ": 8.0
+            },
+            {
+              "PrimitiveType": 3,
+              "PositionX": 0.0,
+              "PositionZ": -17.0,
+              "RotationY": 0.0,
+              "SizeX": 42.0,
+              "SizeZ": 8.0
+            }
+          ]
+        },
+        {
+          "StartingZoneName": "Standard N-S",
+          "StartingZonePrimitiveDatas": [
+            {
+              "PrimitiveType": 3,
+              "PositionX": -17.0,
+              "PositionZ": 0.0,
+              "RotationY": 0.0,
+              "SizeX": 8.0,
+              "SizeZ": 42.0
+            },
+            {
+              "PrimitiveType": 3,
+              "PositionX": 17.0,
+              "PositionZ": 0.0,
+              "RotationY": 0.0,
+              "SizeX": 8.0,
+              "SizeZ": 42.0
+            }
+          ]
+        },
+        {
+          "StartingZoneName": "Corners A",
+          "StartingZonePrimitiveDatas": [
+            {
+              "PrimitiveType": 2,
+              "PositionX": 21.0,
+              "PositionZ": 21.0,
+              "RotationY": 0.0,
+              "SizeX": 24.0,
+              "SizeZ": 24.0
+            },
+            {
+              "PrimitiveType": 2,
+              "PositionX": -21.0,
+              "PositionZ": -21.0,
+              "RotationY": 0.0,
+              "SizeX": 24.0,
+              "SizeZ": 24.0
+            }
+          ]
+        }
+      ],
+      "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/MattArrayData/MattMan.png"
+    }
+  ]
+}

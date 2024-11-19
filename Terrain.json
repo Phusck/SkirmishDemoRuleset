@@ -1,0 +1,1005 @@
+{
+    "TerrainPieceDatas": [
+        {
+            "Name": "Annex",
+            "TerrainColliders": [
+                {
+                    "TerrainColliderName": "",
+                    "TerrainColliderType": 0,
+                    "ColliderCenter": {
+                        "x": 0.0,
+                        "y": 2.5,
+                        "z": -0.5799999833106995
+                    },
+                    "ColliderRotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "ColliderSize": {
+                        "x": 6.579999923706055,
+                        "y": 5.0,
+                        "z": 8.600000381469727
+                    },
+                    "TerrainTypes": [
+                        "Covering"
+                    ],
+                    "IsMattExtension": false
+                }
+            ],
+            "ModelPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ModelRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "ModelScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "TerrainModelType": 0,
+            "BezierKnots": [],
+            "TerrainModelFile": "",
+            "TerrainModelName": "Annex"
+        },
+        {
+            "Name": "Fence - Gate",
+            "TerrainColliders": [
+                {
+                    "TerrainColliderName": "",
+                    "TerrainColliderType": 0,
+                    "ColliderCenter": {
+                        "x": -0.0000021457672119140626,
+                        "y": 1.794756293296814,
+                        "z": -3.2782554626464846e-7
+                    },
+                    "ColliderRotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "ColliderSize": {
+                        "x": 3.384248733520508,
+                        "y": 3.589512586593628,
+                        "z": 0.5048933625221252
+                    },
+                    "TerrainTypes": [
+                        "Dangerous"
+                    ],
+                    "IsMattExtension": false
+                }
+            ],
+            "ModelPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ModelRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "ModelScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "TerrainModelType": 0,
+            "BezierKnots": [],
+            "TerrainModelFile": "",
+            "TerrainModelName": "Fence - Gate"
+        },
+        {
+            "Name": "Skov",
+            "TerrainColliders": [
+                {
+                    "TerrainColliderName": "",
+                    "TerrainColliderType": 3,
+                    "ColliderCenter": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "ColliderRotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 0.0
+                    },
+                    "ColliderSize": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "TerrainTypes": [
+                        "Difficult"
+                    ],
+                    "IsMattExtension": false
+                }
+            ],
+            "ModelPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ModelRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            },
+            "ModelScale": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "TerrainModelType": 2,
+            "BezierKnots": [
+                {
+                    "Position": {
+                        "x": -2.799999952316284,
+                        "y": 0.0,
+                        "z": -0.8399999737739563
+                    },
+                    "TangentIn": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -1.3885072469711304
+                    },
+                    "TangentOut": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.3885072469711304
+                    },
+                    "Rotation": {
+                        "value": {
+                            "x": 0.0,
+                            "y": 0.9893937706947327,
+                            "z": 0.0,
+                            "w": -0.14525817334651948
+                        }
+                    }
+                },
+                {
+                    "Position": {
+                        "x": -1.6799999475479127,
+                        "y": 0.0,
+                        "z": -2.7200000286102297
+                    },
+                    "TangentIn": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -1.0756841897964478
+                    },
+                    "TangentOut": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.0756841897964478
+                    },
+                    "Rotation": {
+                        "value": {
+                            "x": 0.0,
+                            "y": 0.6321613788604736,
+                            "z": 0.0,
+                            "w": 0.7748367190361023
+                        }
+                    }
+                },
+                {
+                    "Position": {
+                        "x": 1.7449584007263184,
+                        "y": 0.0,
+                        "z": -1.3436508178710938
+                    },
+                    "TangentIn": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -1.1235642433166505
+                    },
+                    "TangentOut": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.1235642433166505
+                    },
+                    "Rotation": {
+                        "value": {
+                            "x": 0.0,
+                            "y": 0.43608811497688296,
+                            "z": 0.0,
+                            "w": 0.8999040126800537
+                        }
+                    }
+                },
+                {
+                    "Position": {
+                        "x": -0.1899999976158142,
+                        "y": 0.0,
+                        "z": 1.840000033378601
+                    },
+                    "TangentIn": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -2.0037193298339845
+                    },
+                    "TangentOut": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 2.0037193298339845
+                    },
+                    "Rotation": {
+                        "value": {
+                            "x": 0.0,
+                            "y": 0.9951574206352234,
+                            "z": 0.0,
+                            "w": -0.09829412400722504
+                        }
+                    }
+                }
+            ],
+            "TerrainModelFile": "",
+            "TerrainModelName": ""
+        },
+        {
+            "Name": "Crate A",
+            "TerrainColliders": [
+                {
+                    "TerrainColliderName": "Crate A",
+                    "TerrainColliderType": 0,
+                    "ColliderCenter": {
+                        "x": 0.0,
+                        "y": 0.499626487493515,
+                        "z": 0.0
+                    },
+                    "ColliderRotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "ColliderSize": {
+                        "x": 0.9992531538009644,
+                        "y": 0.99925297498703,
+                        "z": 0.99925297498703
+                    },
+                    "TerrainTypes": [],
+                    "IsMattExtension": false
+                }
+            ],
+            "ModelPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ModelRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "ModelScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "TerrainModelType": 0,
+            "BezierKnots": [],
+            "TerrainModelFile": "",
+            "TerrainModelName": "Crate A"
+        },
+        {
+            "Name": "Crate B",
+            "TerrainColliders": [
+                {
+                    "TerrainColliderName": "",
+                    "TerrainColliderType": 0,
+                    "ColliderCenter": {
+                        "x": 0.0,
+                        "y": 0.36215484142303469,
+                        "z": 0.0
+                    },
+                    "ColliderRotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "ColliderSize": {
+                        "x": 1.4589881896972657,
+                        "y": 0.7243096828460693,
+                        "z": 0.9904804825782776
+                    },
+                    "TerrainTypes": [
+                        "Dangerous"
+                    ],
+                    "IsMattExtension": false
+                }
+            ],
+            "ModelPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ModelRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "ModelScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "TerrainModelType": 0,
+            "BezierKnots": [],
+            "TerrainModelFile": "",
+            "TerrainModelName": "Crate B"
+        },
+        {
+            "Name": "Wood Stack",
+            "TerrainColliders": [
+                {
+                    "TerrainColliderName": "Wood Stack",
+                    "TerrainColliderType": 0,
+                    "ColliderCenter": {
+                        "x": 0.026499999687075616,
+                        "y": 0.4075999855995178,
+                        "z": 0.0
+                    },
+                    "ColliderRotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "ColliderSize": {
+                        "x": 2.658902645111084,
+                        "y": 0.8151618242263794,
+                        "z": 0.6781235337257385
+                    },
+                    "TerrainTypes": [
+                        "Covering"
+                    ],
+                    "IsMattExtension": false
+                }
+            ],
+            "ModelPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ModelRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "ModelScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "TerrainModelType": 0,
+            "BezierKnots": [],
+            "TerrainModelFile": "",
+            "TerrainModelName": "Wood Stack"
+        },
+        {
+            "Name": "Well - Semi Simple",
+            "TerrainColliders": [
+                {
+                    "TerrainColliderName": "Well - Semi Simple",
+                    "TerrainColliderType": 0,
+                    "ColliderCenter": {
+                        "x": 0.05090000107884407,
+                        "y": 0.4578999876976013,
+                        "z": 0.000003814697265625
+                    },
+                    "ColliderRotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "ColliderSize": {
+                        "x": 1.2890434265136719,
+                        "y": 0.9157592058181763,
+                        "z": 1.3235397338867188
+                    },
+                    "TerrainTypes": [],
+                    "IsMattExtension": false
+                },
+                {
+                    "TerrainColliderName": "Well - Semi Simple",
+                    "TerrainColliderType": 0,
+                    "ColliderCenter": {
+                        "x": 0.0,
+                        "y": 1.069562315940857,
+                        "z": 0.04830000177025795
+                    },
+                    "ColliderRotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "ColliderSize": {
+                        "x": 2.045501708984375,
+                        "y": 2.139124631881714,
+                        "z": 0.3147968351840973
+                    },
+                    "TerrainTypes": [
+                        "Covering"
+                    ],
+                    "IsMattExtension": false
+                }
+            ],
+            "ModelPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ModelRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "ModelScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "TerrainModelType": 0,
+            "BezierKnots": [],
+            "TerrainModelFile": "",
+            "TerrainModelName": "Well - Semi Simple"
+        },
+        {
+            "Name": "Shop - Pirate",
+            "TerrainColliders": [
+                {
+                    "TerrainColliderName": "Shop - Pirate",
+                    "TerrainColliderType": 0,
+                    "ColliderCenter": {
+                        "x": 0.19589999318122865,
+                        "y": 1.9478000402450562,
+                        "z": -0.8091999888420105
+                    },
+                    "ColliderRotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "ColliderSize": {
+                        "x": 6.6201252937316898,
+                        "y": 3.8954708576202394,
+                        "z": 2.88759183883667
+                    },
+                    "TerrainTypes": [
+                        "Covering"
+                    ],
+                    "IsMattExtension": false
+                },
+                {
+                    "TerrainColliderName": "Shop - Pirate",
+                    "TerrainColliderType": 0,
+                    "ColliderCenter": {
+                        "x": -0.7922000288963318,
+                        "y": 1.8796000480651856,
+                        "z": 1.4565999507904053
+                    },
+                    "ColliderRotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "ColliderSize": {
+                        "x": 4.438964366912842,
+                        "y": 3.758955478668213,
+                        "z": 1.5929521322250367
+                    },
+                    "TerrainTypes": [],
+                    "IsMattExtension": false
+                },
+                {
+                    "TerrainColliderName": "Shop - Pirate",
+                    "TerrainColliderType": 0,
+                    "ColliderCenter": {
+                        "x": -2.2657999992370607,
+                        "y": 5.363500118255615,
+                        "z": -0.30660000443458559
+                    },
+                    "ColliderRotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "ColliderSize": {
+                        "x": 3.3318586349487306,
+                        "y": 2.9241628646850588,
+                        "z": 0.5537182092666626
+                    },
+                    "TerrainTypes": [],
+                    "IsMattExtension": false
+                }
+            ],
+            "ModelPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ModelRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "ModelScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "TerrainModelType": 0,
+            "BezierKnots": [],
+            "TerrainModelFile": "",
+            "TerrainModelName": "Shop - Pirate"
+        },
+        {
+            "Name": "Shanty A",
+            "TerrainColliders": [
+                {
+                    "TerrainColliderName": "Shanty A",
+                    "TerrainColliderType": 0,
+                    "ColliderCenter": {
+                        "x": -1.3313000202178956,
+                        "y": 2.6150999069213869,
+                        "z": 0.14079999923706056
+                    },
+                    "ColliderRotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "ColliderSize": {
+                        "x": 4.829958438873291,
+                        "y": 5.230195045471191,
+                        "z": 4.858602523803711
+                    },
+                    "TerrainTypes": [
+                        "Covering"
+                    ],
+                    "IsMattExtension": false
+                },
+                {
+                    "TerrainColliderName": "Shanty A",
+                    "TerrainColliderType": 0,
+                    "ColliderCenter": {
+                        "x": 2.2822999954223635,
+                        "y": 1.7487000226974488,
+                        "z": 0.14090000092983247
+                    },
+                    "ColliderRotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "ColliderSize": {
+                        "x": 2.3645589351654054,
+                        "y": 3.49725604057312,
+                        "z": 4.943228721618652
+                    },
+                    "TerrainTypes": [
+                        "Covering"
+                    ],
+                    "IsMattExtension": false
+                }
+            ],
+            "ModelPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ModelRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "ModelScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "TerrainModelType": 0,
+            "BezierKnots": [],
+            "TerrainModelFile": "",
+            "TerrainModelName": "Shanty A"
+        },
+        {
+            "Name": "Rowboat",
+            "TerrainColliders": [
+                {
+                    "TerrainColliderName": "Rowboat",
+                    "TerrainColliderType": 0,
+                    "ColliderCenter": {
+                        "x": -0.2132110595703125,
+                        "y": 0.8132781982421875,
+                        "z": 0.33719998598098757
+                    },
+                    "ColliderRotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "ColliderSize": {
+                        "x": 2.88330078125,
+                        "y": 1.626556396484375,
+                        "z": 7.963497638702393
+                    },
+                    "TerrainTypes": [
+                        "Dangerous"
+                    ],
+                    "IsMattExtension": false
+                }
+            ],
+            "ModelPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ModelRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "ModelScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "TerrainModelType": 0,
+            "BezierKnots": [],
+            "TerrainModelFile": "",
+            "TerrainModelName": "Rowboat"
+        },
+        {
+            "Name": "Fountain",
+            "TerrainColliders": [
+                {
+                    "TerrainColliderName": "Fountain",
+                    "TerrainColliderType": 0,
+                    "ColliderCenter": {
+                        "x": 0.013799999840557576,
+                        "y": 1.0018928050994874,
+                        "z": 0.010400000028312207
+                    },
+                    "ColliderRotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "ColliderSize": {
+                        "x": 2.797217845916748,
+                        "y": 2.0037856101989748,
+                        "z": 2.826213836669922
+                    },
+                    "TerrainTypes": [
+                        "Dampening"
+                    ],
+                    "IsMattExtension": false
+                }
+            ],
+            "ModelPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ModelRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "ModelScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "TerrainModelType": 0,
+            "BezierKnots": [],
+            "TerrainModelFile": "",
+            "TerrainModelName": "Fountain"
+        },
+        {
+            "Name": "Cart",
+            "TerrainColliders": [],
+            "ModelPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ModelRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "ModelScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "TerrainModelType": 0,
+            "BezierKnots": [],
+            "TerrainModelFile": "",
+            "TerrainModelName": "Cart"
+        },
+        {
+            "Name": "Shanty Bar",
+            "TerrainColliders": [
+                {
+                    "TerrainColliderName": "",
+                    "TerrainColliderType": 0,
+                    "ColliderCenter": {
+                        "x": -0.050599999725818637,
+                        "y": 2.081385850906372,
+                        "z": -0.3287000060081482
+                    },
+                    "ColliderRotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "ColliderSize": {
+                        "x": 6.9710588455200199,
+                        "y": 4.162771701812744,
+                        "z": 4.949651718139648
+                    },
+                    "TerrainTypes": [
+                        "Difficult"
+                    ],
+                    "IsMattExtension": false
+                }
+            ],
+            "ModelPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ModelRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "ModelScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "TerrainModelType": 0,
+            "BezierKnots": [],
+            "TerrainModelFile": "",
+            "TerrainModelName": "Shanty Bar"
+        },
+        {
+            "Name": "Fence - Pillar and Brick",
+            "TerrainColliders": [
+                {
+                    "TerrainColliderName": "Fence - Pillar and Brick",
+                    "TerrainColliderType": 0,
+                    "ColliderCenter": {
+                        "x": -1.1920928955078126e-7,
+                        "y": 1.1534945964813233,
+                        "z": 0.0
+                    },
+                    "ColliderRotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "ColliderSize": {
+                        "x": 3.1638588905334474,
+                        "y": 2.3069891929626467,
+                        "z": 0.33036112785339358
+                    },
+                    "TerrainTypes": [
+                        "Covering"
+                    ],
+                    "IsMattExtension": false
+                }
+            ],
+            "ModelPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ModelRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "ModelScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "TerrainModelType": 0,
+            "BezierKnots": [],
+            "TerrainModelFile": "",
+            "TerrainModelName": "Fence - Pillar and Brick"
+        },
+        {
+            "Name": "Swamp",
+            "TerrainColliders": [
+                {
+                    "TerrainColliderName": "MeshCollider forSwamp",
+                    "TerrainColliderType": 3,
+                    "ColliderCenter": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "ColliderRotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 0.0
+                    },
+                    "ColliderSize": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "TerrainTypes": [
+                        "Difficult",
+                        "Dampening"
+                    ],
+                    "IsMattExtension": false
+                }
+            ],
+            "ModelPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ModelRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            },
+            "ModelScale": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "TerrainModelType": 2,
+            "BezierKnots": [
+                {
+                    "Position": {
+                        "x": -1.1138722896575928,
+                        "y": 0.0,
+                        "z": 3.469052791595459
+                    },
+                    "TangentIn": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -1.993945598602295
+                    },
+                    "TangentOut": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.993945598602295
+                    },
+                    "Rotation": {
+                        "value": {
+                            "x": 0.0,
+                            "y": 0.7585508227348328,
+                            "z": 0.0,
+                            "w": -0.6516139507293701
+                        }
+                    }
+                },
+                {
+                    "Position": {
+                        "x": -1.6799999475479127,
+                        "y": 0.0,
+                        "z": -2.7200000286102297
+                    },
+                    "TangentIn": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -2.959303379058838
+                    },
+                    "TangentOut": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 2.959303379058838
+                    },
+                    "Rotation": {
+                        "value": {
+                            "x": 0.0,
+                            "y": 0.8269050121307373,
+                            "z": 0.0,
+                            "w": 0.5623416304588318
+                        }
+                    }
+                },
+                {
+                    "Position": {
+                        "x": 3.7501845359802248,
+                        "y": 0.0,
+                        "z": 0.1415567398071289
+                    },
+                    "TangentIn": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -1.3154380321502686
+                    },
+                    "TangentOut": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.3154380321502686
+                    },
+                    "Rotation": {
+                        "value": {
+                            "x": 0.0,
+                            "y": 0.22785454988479615,
+                            "z": 0.0,
+                            "w": 0.9736952185630798
+                        }
+                    }
+                },
+                {
+                    "Position": {
+                        "x": 2.03731632232666,
+                        "y": 0.0,
+                        "z": 0.5177993774414063
+                    },
+                    "TangentIn": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -2.0909016132354738
+                    },
+                    "TangentOut": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 2.0909016132354738
+                    },
+                    "Rotation": {
+                        "value": {
+                            "x": 0.0,
+                            "y": 0.955448567867279,
+                            "z": 0.0,
+                            "w": -0.2951575517654419
+                        }
+                    }
+                }
+            ],
+            "TerrainModelFile": "",
+            "TerrainModelName": ""
+        }
+    ]
+}

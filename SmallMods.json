@@ -1,0 +1,14 @@
+{
+    "SmallMods": [
+        {
+            "SmallModName": "Injured",
+            "Description": "Av Nas",
+            "ImagePath": "<SmallModFolderPath>/Injured.png"
+        },
+        {
+            "SmallModName": "Matted",
+            "Description": "Feel Mattted Yet?",
+            "ImagePath": "<SmallModFolderPath>/Matted.png"
+        }
+    ]
+}

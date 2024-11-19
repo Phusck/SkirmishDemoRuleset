@@ -1,0 +1,780 @@
+{
+  "FigurineTemplates": [
+    {
+      "FigurineTemplateName": "Apprentice ",
+      "BaseName": "Medium",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "MV",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "Ag",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "2"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "St",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 4,
+      "SizeFactor": 1.536,
+      "XOffSet": -41.0,
+      "AugmentationsNames": [],
+      "PovHeight": 1.65
+    },
+    {
+      "FigurineTemplateName": "Beserker Hugger ",
+      "BaseName": "Medium",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "MV",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "Ag",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "St",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 8,
+      "SizeFactor": 1.924,
+      "XOffSet": -70.0,
+      "AugmentationsNames": [],
+      "PovHeight": 1.84
+    },
+    {
+      "FigurineTemplateName": "Bombadier ",
+      "BaseName": "Medium",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "MV",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "Ag",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "St",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 4,
+      "SizeFactor": 1.658,
+      "XOffSet": -34.0,
+      "AugmentationsNames": [],
+      "PovHeight": 1.76
+    },
+    {
+      "FigurineTemplateName": "Book fiend ",
+      "BaseName": "Big",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "MV",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "Ag",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "3"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "St",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "6"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 8,
+      "SizeFactor": 1.73,
+      "XOffSet": 3.0,
+      "AugmentationsNames": [],
+      "PovHeight": 2.48
+    },
+    {
+      "FigurineTemplateName": "Demonologist ",
+      "BaseName": "Medium",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "MV",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "Ag",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "St",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "3"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 4,
+      "SizeFactor": 1.529,
+      "XOffSet": 2.0,
+      "AugmentationsNames": [],
+      "PovHeight": 1.61
+    },
+    {
+      "FigurineTemplateName": "Duelist ",
+      "BaseName": "Medium",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "MV",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "Ag",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "St",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 6,
+      "SizeFactor": 1.905,
+      "XOffSet": 17.0,
+      "AugmentationsNames": [],
+      "PovHeight": 1.84
+    },
+    {
+      "FigurineTemplateName": "Elementalist ",
+      "BaseName": "Medium",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "MV",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "Ag",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "St",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 4,
+      "SizeFactor": 1.92,
+      "XOffSet": 91.0,
+      "AugmentationsNames": [],
+      "PovHeight": 1.65
+    },
+    {
+      "FigurineTemplateName": "Kegger ",
+      "BaseName": "Medium",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "MV",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "Ag",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "St",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 4,
+      "SizeFactor": 1.392,
+      "XOffSet": 0.0,
+      "AugmentationsNames": [],
+      "PovHeight": 1.36
+    },
+    {
+      "FigurineTemplateName": "Lightning Golem ",
+      "BaseName": "Big",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "MV",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "Ag",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "St",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 7,
+      "SizeFactor": 1.738,
+      "XOffSet": -2.0,
+      "AugmentationsNames": [],
+      "PovHeight": 2.52
+    },
+    {
+      "FigurineTemplateName": "Master of Arms ",
+      "BaseName": "Medium",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "MV",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "Ag",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "St",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 6,
+      "SizeFactor": 2.106,
+      "XOffSet": 0.0,
+      "AugmentationsNames": [],
+      "PovHeight": 2.03
+    },
+    {
+      "FigurineTemplateName": "Navigator ",
+      "BaseName": "Medium",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "MV",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "Ag",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "St",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 5,
+      "SizeFactor": 1.901,
+      "XOffSet": 58.0,
+      "AugmentationsNames": [],
+      "PovHeight": 1.94
+    },
+    {
+      "FigurineTemplateName": "Ogre Cannoneer ",
+      "BaseName": "Big",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "MV",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "Ag",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "St",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 8,
+      "SizeFactor": 1.665,
+      "XOffSet": -224.0,
+      "AugmentationsNames": [],
+      "PovHeight": 2.64
+    },
+    {
+      "FigurineTemplateName": "Parrot ",
+      "BaseName": "Medium",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "MV",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "7"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "Ag",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "St",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "2"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 2,
+      "SizeFactor": 0.814,
+      "XOffSet": 83.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.67
+    },
+    {
+      "FigurineTemplateName": "Swab ",
+      "BaseName": "Medium",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "MV",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "Ag",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "St",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 4,
+      "SizeFactor": 0.859,
+      "XOffSet": -36.0,
+      "AugmentationsNames": [],
+      "PovHeight": 1.62
+    },
+    {
+      "FigurineTemplateName": "Udkigs Kyed ",
+      "BaseName": "Medium",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "MV",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "Ag",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "St",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 5,
+      "SizeFactor": 1.084,
+      "XOffSet": 0.0,
+      "AugmentationsNames": [],
+      "PovHeight": 1.89
+    },
+    {
+      "FigurineTemplateName": "War Mage ",
+      "BaseName": "Medium",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "MV",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "Ag",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "St",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 8,
+      "SizeFactor": 1.954,
+      "XOffSet": 0.0,
+      "AugmentationsNames": [],
+      "PovHeight": 1.75
+    },
+    {
+      "FigurineTemplateName": "Krauhn ",
+      "BaseName": "Medium",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "Mv",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "Ag",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "St",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "Wis",
+            "FallbackValue": "",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 5,
+      "SizeFactor": 1.171,
+      "XOffSet": 0.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Pirat Lapper ",
+      "BaseName": "Medium",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "Mv",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "Ag",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "St",
+            "FallbackValue": "4",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "Wis",
+            "FallbackValue": "",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 8,
+      "SizeFactor": 0.796,
+      "XOffSet": -20.0,
+      "AugmentationsNames": [],
+      "PovHeight": 1.58
+    }
+  ]
+}
