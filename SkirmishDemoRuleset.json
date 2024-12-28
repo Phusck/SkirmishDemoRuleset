@@ -44,7 +44,8 @@
         "Surprice summon.png",
         "Surprise Sentience.png",
         "Teleport.png"
-      ]
+      ],
+      "IsCommunalDeck": false
     },
     {
       "Name": "Pirate Event Deck",
@@ -69,7 +70,8 @@
         "Rammin Speed.png",
         "Rope Adventure.png",
         "Tidal Wave.png"
-      ]
+      ],
+      "IsCommunalDeck": false
     }
   ],
   "RosterResources": [

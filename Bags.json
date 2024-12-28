@@ -1,0 +1,25 @@
+{
+  "BagDatas": [
+    {
+      "BagName": "Baggarino",
+      "Chips": [
+        {
+          "ChipName": "Flip Flop",
+          "ChipImagePath": "<ChipFolderPath>/Flip Flop.png"
+        },
+        {
+          "ChipName": "Skull And Bones",
+          "ChipImagePath": "<ChipFolderPath>/Skull And Bones.png"
+        },
+        {
+          "ChipName": "Stop n Go",
+          "ChipImagePath": "<ChipFolderPath>/Stop n Go.png"
+        },
+        {
+          "ChipName": "Wizard Hat",
+          "ChipImagePath": "<ChipFolderPath>/Wizard Hat.png"
+        }
+      ]
+    }
+  ]
+}

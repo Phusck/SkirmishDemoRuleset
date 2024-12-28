@@ -1,14 +1,40 @@
 {
-    "SmallMods": [
-        {
-            "SmallModName": "Injured",
-            "Description": "Av Nas",
-            "ImagePath": "<SmallModFolderPath>/Injured.png"
-        },
-        {
-            "SmallModName": "Matted",
-            "Description": "Feel Mattted Yet?",
-            "ImagePath": "<SmallModFolderPath>/Matted.png"
-        }
-    ]
+  "SmallMods": [
+    {
+      "SmallModName": "Hurt",
+      "Description": "Av Nas",
+      "ImagePath": "<SmallModFolderPath>/Hurt.png",
+      "CanAffectFigurines": true,
+      "CanAffectTokens": false,
+      "CanAffectPoints": false,
+      "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/SmallMods/Hurt.png"
+    },
+    {
+      "SmallModName": "Confused",
+      "Description": "This hero cannot use Re-Rolls from focus",
+      "ImagePath": "<SmallModFolderPath>/Confused.png",
+      "CanAffectFigurines": true,
+      "CanAffectTokens": false,
+      "CanAffectPoints": false,
+      "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/SmallMods/Confused.png"
+    },
+    {
+      "SmallModName": "Enchanted",
+      "Description": "",
+      "ImagePath": "<SmallModFolderPath>/Enchanted.png",
+      "CanAffectFigurines": false,
+      "CanAffectTokens": true,
+      "CanAffectPoints": false,
+      "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/SmallMods/Enchanted.png"
+    },
+    {
+      "SmallModName": "Burried",
+      "Description": "",
+      "ImagePath": "<SmallModFolderPath>/Burried.png",
+      "CanAffectFigurines": false,
+      "CanAffectTokens": true,
+      "CanAffectPoints": false,
+      "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/SmallMods/Burried.png"
+    }
+  ]
 }
