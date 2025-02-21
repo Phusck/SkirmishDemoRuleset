@@ -123,5 +123,9 @@
   "PlayerOneB": 0.0156862754,
   "PlayerTwoR": 0.0235294122,
   "PlayerTwoG": 0.02745098,
-  "PlayerTwoB": 0.384313732
+  "PlayerTwoB": 0.384313732,
+  "MeasureOptions": 0,
+  "AuraOptions": 0,
+  "CanFigurinesUsingPOV": false,
+  "CanInteractablesBeMovedInRandomDirection": true
 }
