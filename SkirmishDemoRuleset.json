@@ -74,9 +74,19 @@
       "IsCommunalDeck": false
     }
   ],
-  "RosterResources": [
-    "Doubloons",
-    "Focus"
+  "RosterResourceRulesetDatas": [
+    {
+      "RosterResourceName": "Gold",
+      "IsRosterSpecific": false
+    },
+    {
+      "RosterResourceName": "Moon Stones",
+      "IsRosterSpecific": true
+    },
+    {
+      "RosterResourceName": "Dubloons",
+      "IsRosterSpecific": true
+    }
   ],
   "Bases": [
     {
@@ -126,6 +136,6 @@
   "PlayerTwoB": 0.384313732,
   "MeasureOptions": 0,
   "AuraOptions": 0,
-  "CanFigurinesUsingPOV": false,
+  "CanFigurinesUsingPOV": true,
   "CanInteractablesBeMovedInRandomDirection": true
 }

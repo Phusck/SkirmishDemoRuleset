@@ -1,0 +1,28 @@
+{
+  "RosterCheatSheets": [
+    {
+      "RosterCheatSheetName": "Pirate",
+      "ImagePath": "<RosterCheatSheetsFolderPath>/Pirate.png",
+      "IsRoosterCheatSheet": true,
+      "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/RosterCheatSheets/Pirate.png"
+    },
+    {
+      "RosterCheatSheetName": "Wizard",
+      "ImagePath": "<RosterCheatSheetsFolderPath>/Wizard.png",
+      "IsRoosterCheatSheet": true,
+      "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/RosterCheatSheets/Wizard.png"
+    },
+    {
+      "RosterCheatSheetName": "Pirate",
+      "ImagePath": "<RosterCheatSheetsFolderPath>/Pirate.png",
+      "IsRoosterCheatSheet": false,
+      "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/RosterCheatSheets/Pirate.png"
+    },
+    {
+      "RosterCheatSheetName": "Wizard",
+      "ImagePath": "<RosterCheatSheetsFolderPath>/Wizard.png",
+      "IsRoosterCheatSheet": false,
+      "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/RosterCheatSheets/Wizard.png"
+    }
+  ]
+}

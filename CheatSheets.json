@@ -1,0 +1,22 @@
+{
+  "CheatSheets": [
+    {
+      "CheatSheetTitle": "Pirate",
+      "ImagePath": "<CheatSheetsFolderPath>/Pirate.png",
+      "IsRoosterCheatSheet": true,
+      "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/CheatSheets/Pirate.png"
+    },
+    {
+      "CheatSheetTitle": "Wizard",
+      "ImagePath": "<CheatSheetsFolderPath>/Wizard.png",
+      "IsRoosterCheatSheet": true,
+      "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/CheatSheets/Wizard.png"
+    },
+    {
+      "CheatSheetTitle": "General Cheat Sheet",
+      "ImagePath": "<CheatSheetsFolderPath>/General Cheat Sheet.png",
+      "IsRoosterCheatSheet": false,
+      "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/CheatSheets/General Cheat Sheet.png"
+    }
+  ]
+}
