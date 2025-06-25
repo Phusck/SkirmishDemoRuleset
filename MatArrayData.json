@@ -1,8 +1,8 @@
 {
-  "Matts": [
+  "Mats": [
     {
       "Name": "MattMan",
-      "ImagePath": "<MattFolderPath>/MattMan.png",
+      "ImagePath": "<MatFolderPath>/MattMan.png",
       "SizeX": 42,
       "SizeY": 42,
       "StartingZones": [
@@ -70,7 +70,7 @@
           ]
         }
       ],
-      "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/MattArrayData/MattMan.png"
+      "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/MatArrayData/MattMan.png"
     }
   ]
 }
