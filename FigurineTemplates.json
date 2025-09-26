@@ -464,11 +464,11 @@
     },
     {
       "FigurineTemplateName": "Ogre Cannoneer ",
-      "BaseName": "Big",
+      "BaseName": "Very Big",
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "MV",
+            "Name": "Mv",
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
             "IsDefaultMovementStat": true
@@ -492,6 +492,15 @@
             "IsDefaultMovementStat": false
           },
           "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "Wis",
+            "FallbackValue": "",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": ""
         }
       ],
       "StatImageFilePaths": [
@@ -499,7 +508,7 @@
       ],
       "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
       "Health": 8,
-      "SizeFactor": 1.665,
+      "SizeFactor": 0.856,
       "XOffSet": -224.0,
       "AugmentationsNames": [],
       "PovHeight": 2.64

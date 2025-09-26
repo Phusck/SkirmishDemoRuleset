@@ -25,7 +25,7 @@
                     "TerrainTypes": [
                         "Covering"
                     ],
-                    "IsMattExtension": false
+                    "IsMatExtension": false
                 }
             ],
             "ModelPosition": {
@@ -74,7 +74,7 @@
                     "TerrainTypes": [
                         "Dangerous"
                     ],
-                    "IsMattExtension": false
+                    "IsMatExtension": false
                 }
             ],
             "ModelPosition": {
@@ -123,7 +123,7 @@
                     "TerrainTypes": [
                         "Difficult"
                     ],
-                    "IsMattExtension": false
+                    "IsMatExtension": false
                 }
             ],
             "ModelPosition": {
@@ -271,7 +271,7 @@
                         "z": 0.99925297498703
                     },
                     "TerrainTypes": [],
-                    "IsMattExtension": false
+                    "IsMatExtension": false
                 }
             ],
             "ModelPosition": {
@@ -320,7 +320,7 @@
                     "TerrainTypes": [
                         "Dangerous"
                     ],
-                    "IsMattExtension": false
+                    "IsMatExtension": false
                 }
             ],
             "ModelPosition": {
@@ -369,7 +369,7 @@
                     "TerrainTypes": [
                         "Covering"
                     ],
-                    "IsMattExtension": false
+                    "IsMatExtension": false
                 }
             ],
             "ModelPosition": {
@@ -416,7 +416,7 @@
                         "z": 1.3235397338867188
                     },
                     "TerrainTypes": [],
-                    "IsMattExtension": false
+                    "IsMatExtension": false
                 },
                 {
                     "TerrainColliderName": "Well - Semi Simple",
@@ -440,7 +440,7 @@
                     "TerrainTypes": [
                         "Covering"
                     ],
-                    "IsMattExtension": false
+                    "IsMatExtension": false
                 }
             ],
             "ModelPosition": {
@@ -489,7 +489,7 @@
                     "TerrainTypes": [
                         "Covering"
                     ],
-                    "IsMattExtension": false
+                    "IsMatExtension": false
                 },
                 {
                     "TerrainColliderName": "Shop - Pirate",
@@ -511,7 +511,7 @@
                         "z": 1.5929521322250367
                     },
                     "TerrainTypes": [],
-                    "IsMattExtension": false
+                    "IsMatExtension": false
                 },
                 {
                     "TerrainColliderName": "Shop - Pirate",
@@ -533,7 +533,7 @@
                         "z": 0.5537182092666626
                     },
                     "TerrainTypes": [],
-                    "IsMattExtension": false
+                    "IsMatExtension": false
                 }
             ],
             "ModelPosition": {
@@ -582,7 +582,7 @@
                     "TerrainTypes": [
                         "Covering"
                     ],
-                    "IsMattExtension": false
+                    "IsMatExtension": false
                 },
                 {
                     "TerrainColliderName": "Shanty A",
@@ -606,7 +606,7 @@
                     "TerrainTypes": [
                         "Covering"
                     ],
-                    "IsMattExtension": false
+                    "IsMatExtension": false
                 }
             ],
             "ModelPosition": {
@@ -655,7 +655,7 @@
                     "TerrainTypes": [
                         "Dangerous"
                     ],
-                    "IsMattExtension": false
+                    "IsMatExtension": false
                 }
             ],
             "ModelPosition": {
@@ -704,7 +704,7 @@
                     "TerrainTypes": [
                         "Dampening"
                     ],
-                    "IsMattExtension": false
+                    "IsMatExtension": false
                 }
             ],
             "ModelPosition": {
@@ -777,7 +777,7 @@
                     "TerrainTypes": [
                         "Difficult"
                     ],
-                    "IsMattExtension": false
+                    "IsMatExtension": false
                 }
             ],
             "ModelPosition": {
@@ -826,7 +826,7 @@
                     "TerrainTypes": [
                         "Covering"
                     ],
-                    "IsMattExtension": false
+                    "IsMatExtension": false
                 }
             ],
             "ModelPosition": {
@@ -876,7 +876,7 @@
                         "Difficult",
                         "Dampening"
                     ],
-                    "IsMattExtension": false
+                    "IsMatExtension": false
                 }
             ],
             "ModelPosition": {
@@ -1026,7 +1026,7 @@
                     "TerrainTypes": [
                         "Difficult"
                     ],
-                    "IsMattExtension": false
+                    "IsMatExtension": false
                 }
             ],
             "ModelPosition": {

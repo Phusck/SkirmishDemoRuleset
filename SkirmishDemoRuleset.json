@@ -96,6 +96,10 @@
     {
       "Name": "Big",
       "Diameter": 45.0
+    },
+    {
+      "Name": "Very Big",
+      "Diameter": 120.0
     }
   ],
   "hasFacing": false,
