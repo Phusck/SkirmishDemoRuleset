@@ -1,0 +1,24 @@
+{
+  "BigModifiers": [
+    {
+      "BigModifierName": "eqweqwe",
+      "ImagePath": "<BigModifierFolderPath>/eqweqwe.png",
+      "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/BigModifiers/eqweqwe.png"
+    },
+    {
+      "BigModifierName": "Bilge rat familiar",
+      "ImagePath": "<BigModifierFolderPath>/Bilge rat familiar.png",
+      "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/BigModifiers/Bilge rat familiar.png"
+    },
+    {
+      "BigModifierName": "Endless grappling hook",
+      "ImagePath": "<BigModifierFolderPath>/Endless grappling hook.png",
+      "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/BigModifiers/Endless grappling hook.png"
+    },
+    {
+      "BigModifierName": "Tail wielding wand",
+      "ImagePath": "<BigModifierFolderPath>/Tail wielding wand.png",
+      "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/BigModifiers/Tail wielding wand.png"
+    }
+  ]
+}

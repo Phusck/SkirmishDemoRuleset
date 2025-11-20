@@ -141,5 +141,98 @@
   "MeasureOptions": 0,
   "AuraOptions": 0,
   "CanFigurinesUsingPOV": true,
-  "CanInteractablesBeMovedInRandomDirection": true
+  "CanInteractablesBeMovedInRandomDirection": true,
+  "InputShortcuts": [
+    {
+      "ShortcutName": "Change Small Mod Amount - Keyboard Numpad1 - Hurt (1)",
+      "Binding": {
+        "DeviceType": 0,
+        "KeyboardKey": "Numpad1",
+        "ModifierKey": null,
+        "MouseButton": 0
+      },
+      "Consequence": {
+        "ConsequenceTypeId": "ChangeSmallModAmount",
+        "ConsequenceParametersJson": "{\"SmallModName\":\"Hurt\",\"Amount\":1}"
+      }
+    },
+    {
+      "ShortcutName": "Roll Dice - Keyboard Numpad2 - D12",
+      "Binding": {
+        "DeviceType": 0,
+        "KeyboardKey": "Numpad2",
+        "ModifierKey": null,
+        "MouseButton": 0
+      },
+      "Consequence": {
+        "ConsequenceTypeId": "RollDice",
+        "ConsequenceParametersJson": "{\"DiceName\":\"D12\"}"
+      }
+    },
+    {
+      "ShortcutName": "Spawn Token - Keyboard Numpad3 - Shiny Stone",
+      "Binding": {
+        "DeviceType": 0,
+        "KeyboardKey": "Numpad3",
+        "ModifierKey": null,
+        "MouseButton": 0
+      },
+      "Consequence": {
+        "ConsequenceTypeId": "SpawnToken",
+        "ConsequenceParametersJson": "{\"TokenName\":\"Shiny Stone\"}"
+      }
+    },
+    {
+      "ShortcutName": "Change Small Mod Amount - Keyboard Numpad4 - Faster (-1)",
+      "Binding": {
+        "DeviceType": 0,
+        "KeyboardKey": "Numpad4",
+        "ModifierKey": null,
+        "MouseButton": 0
+      },
+      "Consequence": {
+        "ConsequenceTypeId": "ChangeSmallModAmount",
+        "ConsequenceParametersJson": "{\"SmallModName\":\"Faster\",\"Amount\":-1}"
+      }
+    },
+    {
+      "ShortcutName": "Change Small Mod Amount - Keyboard Numpad5 - Faster (1)",
+      "Binding": {
+        "DeviceType": 0,
+        "KeyboardKey": "Numpad5",
+        "ModifierKey": null,
+        "MouseButton": 0
+      },
+      "Consequence": {
+        "ConsequenceTypeId": "ChangeSmallModAmount",
+        "ConsequenceParametersJson": "{\"SmallModName\":\"Faster\",\"Amount\":1}"
+      }
+    },
+    {
+      "ShortcutName": "Change Small Mod Amount - Keyboard LeftShift + Numpad1 - Hurt (-1)",
+      "Binding": {
+        "DeviceType": 0,
+        "KeyboardKey": "Numpad1",
+        "ModifierKey": "LeftShift",
+        "MouseButton": 0
+      },
+      "Consequence": {
+        "ConsequenceTypeId": "ChangeSmallModAmount",
+        "ConsequenceParametersJson": "{\"SmallModName\":\"Hurt\",\"Amount\":-1}"
+      }
+    },
+    {
+      "ShortcutName": "Add Big Modifier - Keyboard Numpad6 - Endless grappling hook",
+      "Binding": {
+        "DeviceType": 0,
+        "KeyboardKey": "Numpad6",
+        "ModifierKey": "",
+        "MouseButton": 0
+      },
+      "Consequence": {
+        "ConsequenceTypeId": "AddBigModifier",
+        "ConsequenceParametersJson": "{\"BigModifierName\":\"Endless grappling hook\"}"
+      }
+    }
+  ]
 }

@@ -561,7 +561,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "MV",
+            "Name": "Mv",
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
             "IsDefaultMovementStat": true
@@ -585,6 +585,15 @@
             "IsDefaultMovementStat": false
           },
           "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "Wis",
+            "FallbackValue": "",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": ""
         }
       ],
       "StatImageFilePaths": [

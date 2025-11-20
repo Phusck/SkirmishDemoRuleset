@@ -35,6 +35,24 @@
       "CanAffectTokens": true,
       "CanAffectPoints": false,
       "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/SmallMods/Burried.png"
+    },
+    {
+      "SmallModName": "Faster",
+      "Description": "Can Make an extra 2' move before each action",
+      "ImagePath": "<SmallModFolderPath>/Faster.png",
+      "CanAffectFigurines": true,
+      "CanAffectTokens": false,
+      "CanAffectPoints": false,
+      "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/SmallMods/Faster.png"
+    },
+    {
+      "SmallModName": "Slower",
+      "Description": "When moving moves 2' inches less",
+      "ImagePath": "<SmallModFolderPath>/Slower.png",
+      "CanAffectFigurines": true,
+      "CanAffectTokens": false,
+      "CanAffectPoints": false,
+      "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/SmallMods/Slower.png"
     }
   ]
 }
