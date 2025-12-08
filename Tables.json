@@ -11,7 +11,7 @@
                         "y": 0.0,
                         "z": -16.196792602539064
                     },
-                    "yRotation": 9.951815605163575
+                    "yRotation": 9.95181655883789
                 },
                 {
                     "TerrainPieceName": "Fence - Gate",
@@ -185,15 +185,6 @@
                     "yRotation": 0.0
                 },
                 {
-                    "TerrainPieceName": "Skov",
-                    "Position": {
-                        "x": 1.1282424926757813,
-                        "y": 0.0,
-                        "z": -11.771430015563965
-                    },
-                    "yRotation": 41.852447509765628
-                },
-                {
                     "TerrainPieceName": "Rowboat",
                     "Position": {
                         "x": 5.830578804016113,
@@ -248,24 +239,6 @@
                     "yRotation": 53.228633880615237
                 },
                 {
-                    "TerrainPieceName": "Tåge",
-                    "Position": {
-                        "x": 15.054540634155274,
-                        "y": 0.0,
-                        "z": 1.1457643508911133
-                    },
-                    "yRotation": 215.39048767089845
-                },
-                {
-                    "TerrainPieceName": "Tåge",
-                    "Position": {
-                        "x": -7.817556381225586,
-                        "y": 0.0,
-                        "z": 16.071910858154298
-                    },
-                    "yRotation": 168.00482177734376
-                },
-                {
                     "TerrainPieceName": "Crate B",
                     "Position": {
                         "x": 10.423097610473633,
@@ -273,6 +246,33 @@
                         "z": -0.4199333190917969
                     },
                     "yRotation": 248.86135864257813
+                },
+                {
+                    "TerrainPieceName": "Woods B",
+                    "Position": {
+                        "x": -11.799751281738282,
+                        "y": 0.0,
+                        "z": 7.134683609008789
+                    },
+                    "yRotation": 150.7713623046875
+                },
+                {
+                    "TerrainPieceName": "Blood pool",
+                    "Position": {
+                        "x": -10.355154991149903,
+                        "y": 0.0,
+                        "z": -12.865882873535157
+                    },
+                    "yRotation": 159.57423400878907
+                },
+                {
+                    "TerrainPieceName": "Woods B",
+                    "Position": {
+                        "x": 13.100540161132813,
+                        "y": 0.0,
+                        "z": -8.606575012207032
+                    },
+                    "yRotation": 39.477943420410159
                 }
             ]
         },

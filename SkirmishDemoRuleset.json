@@ -27,7 +27,7 @@
   "Decks": [
     {
       "Name": "Wizard Events",
-      "OriginalDeckFolderPath": "E:\\RulesetFolder/SkirmishDemoRuleset/Deck - Wizard Events",
+      "OriginalDeckFolderPath": "C:\\Skirmish Game Simulator Data\\Rulesets\\/SkirmishDemoRuleset/Deck - Wizard Events",
       "CardBackFileName": "CardBack.png",
       "CardFileNames": [
         "Absorb Kinetuc energy.png",
@@ -49,13 +49,11 @@
     },
     {
       "Name": "Pirate Event Deck",
-      "OriginalDeckFolderPath": "E:\\RulesetFolder/SkirmishDemoRuleset/Deck - Pirate Event Deck",
+      "OriginalDeckFolderPath": "C:\\Skirmish Game Simulator Data\\Rulesets\\/SkirmishDemoRuleset/Deck - Pirate Event Deck",
       "CardBackFileName": "CardBack.png",
       "CardFileNames": [
         "Black Spot Curse.png",
         "Block Spell with the Rudder.png",
-        "More Rum.png",
-        "The Locker.png",
         "Dinner on TIme.png",
         "Dodging Magic Missile.png",
         "Dropped Cannon Ball.png",
@@ -64,11 +62,13 @@
         "Help from the kraken.png",
         "Hidden Pocket of Gun powder.png",
         "Lucky Thrust.png",
+        "More Rum.png",
         "Plotting Course against the wind.png",
         "Potting Course against the wind.png",
         "Pushing the Ship.png",
         "Rammin Speed.png",
         "Rope Adventure.png",
+        "The Locker.png",
         "Tidal Wave.png"
       ],
       "IsCommunalDeck": false
@@ -234,5 +234,6 @@
         "ConsequenceParametersJson": "{\"BigModifierName\":\"Endless grappling hook\"}"
       }
     }
-  ]
+  ],
+  "GitRepositoryURL": "https://github.com/Phusck/SkirmishDemoRuleset.git"
 }

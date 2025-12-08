@@ -7,7 +7,8 @@
       "CanAffectFigurines": true,
       "CanAffectTokens": false,
       "CanAffectPoints": false,
-      "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/SmallMods/Hurt.png"
+      "IsStackable": true,
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets/SkirmishDemoRuleset/SmallMods/Hurt.png"
     },
     {
       "SmallModName": "Confused",
@@ -16,7 +17,8 @@
       "CanAffectFigurines": true,
       "CanAffectTokens": false,
       "CanAffectPoints": false,
-      "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/SmallMods/Confused.png"
+      "IsStackable": false,
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets/SkirmishDemoRuleset/SmallMods/Confused.png"
     },
     {
       "SmallModName": "Enchanted",
@@ -25,7 +27,8 @@
       "CanAffectFigurines": false,
       "CanAffectTokens": true,
       "CanAffectPoints": false,
-      "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/SmallMods/Enchanted.png"
+      "IsStackable": false,
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets/SkirmishDemoRuleset/SmallMods/Enchanted.png"
     },
     {
       "SmallModName": "Burried",
@@ -34,7 +37,8 @@
       "CanAffectFigurines": false,
       "CanAffectTokens": true,
       "CanAffectPoints": false,
-      "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/SmallMods/Burried.png"
+      "IsStackable": false,
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets/SkirmishDemoRuleset/SmallMods/Burried.png"
     },
     {
       "SmallModName": "Faster",
@@ -43,7 +47,8 @@
       "CanAffectFigurines": true,
       "CanAffectTokens": false,
       "CanAffectPoints": false,
-      "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/SmallMods/Faster.png"
+      "IsStackable": false,
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets/SkirmishDemoRuleset/SmallMods/Faster.png"
     },
     {
       "SmallModName": "Slower",
@@ -52,7 +57,8 @@
       "CanAffectFigurines": true,
       "CanAffectTokens": false,
       "CanAffectPoints": false,
-      "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/SmallMods/Slower.png"
+      "IsStackable": false,
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets/SkirmishDemoRuleset/SmallMods/Slower.png"
     }
   ]
 }

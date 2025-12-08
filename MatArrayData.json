@@ -10,17 +10,17 @@
           "StartingZoneName": "Standard E-W",
           "StartingZonePrimitiveDatas": [
             {
-              "PrimitiveType": 3,
+              "PrefabIndex": 0,
               "PositionX": 0.0,
-              "PositionZ": 17.0,
-              "RotationY": 0.0,
+              "PositionZ": 21.0,
+              "RotationY": 180.0,
               "SizeX": 42.0,
               "SizeZ": 8.0
             },
             {
-              "PrimitiveType": 3,
+              "PrefabIndex": 0,
               "PositionX": 0.0,
-              "PositionZ": -17.0,
+              "PositionZ": -21.0,
               "RotationY": 0.0,
               "SizeX": 42.0,
               "SizeZ": 8.0
@@ -31,7 +31,7 @@
           "StartingZoneName": "Standard N-S",
           "StartingZonePrimitiveDatas": [
             {
-              "PrimitiveType": 3,
+              "PrefabIndex": 0,
               "PositionX": -17.0,
               "PositionZ": 0.0,
               "RotationY": 0.0,
@@ -39,7 +39,7 @@
               "SizeZ": 42.0
             },
             {
-              "PrimitiveType": 3,
+              "PrefabIndex": 0,
               "PositionX": 17.0,
               "PositionZ": 0.0,
               "RotationY": 0.0,
@@ -52,25 +52,25 @@
           "StartingZoneName": "Corners A",
           "StartingZonePrimitiveDatas": [
             {
-              "PrimitiveType": 2,
+              "PrefabIndex": 4,
               "PositionX": 21.0,
               "PositionZ": 21.0,
-              "RotationY": 0.0,
-              "SizeX": 24.0,
-              "SizeZ": 24.0
+              "RotationY": 180.0,
+              "SizeX": 14.0,
+              "SizeZ": 14.0
             },
             {
-              "PrimitiveType": 2,
+              "PrefabIndex": 4,
               "PositionX": -21.0,
               "PositionZ": -21.0,
               "RotationY": 0.0,
-              "SizeX": 24.0,
-              "SizeZ": 24.0
+              "SizeX": 14.0,
+              "SizeZ": 14.0
             }
           ]
         }
       ],
-      "ImagePathInRuleset": "E:\\RulesetFolder/SkirmishDemoRuleset/MatArrayData/MattMan.png"
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets/SkirmishDemoRuleset/MatArrayData/MattMan.png"
     }
   ]
 }
