@@ -27,7 +27,6 @@
   "Decks": [
     {
       "Name": "Wizard Events",
-      "OriginalDeckFolderPath": "C:\\Skirmish Game Simulator Data\\Rulesets\\/SkirmishDemoRuleset/Deck - Wizard Events",
       "CardBackFileName": "CardBack.png",
       "CardFileNames": [
         "Absorb Kinetuc energy.png",
@@ -49,7 +48,6 @@
     },
     {
       "Name": "Pirate Event Deck",
-      "OriginalDeckFolderPath": "C:\\Skirmish Game Simulator Data\\Rulesets\\/SkirmishDemoRuleset/Deck - Pirate Event Deck",
       "CardBackFileName": "CardBack.png",
       "CardFileNames": [
         "Black Spot Curse.png",

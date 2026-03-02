@@ -7,7 +7,7 @@
       "SizeY": 42,
       "StartingZones": [
         {
-          "StartingZoneName": "Standard E-W",
+          "StartingZoneName": "Standard N/S",
           "StartingZonePrimitiveDatas": [
             {
               "PrefabIndex": 0,
@@ -28,28 +28,28 @@
           ]
         },
         {
-          "StartingZoneName": "Standard N-S",
+          "StartingZoneName": "Standard E/W",
           "StartingZonePrimitiveDatas": [
             {
               "PrefabIndex": 0,
-              "PositionX": -17.0,
+              "PositionX": 21.0,
               "PositionZ": 0.0,
-              "RotationY": 0.0,
-              "SizeX": 8.0,
-              "SizeZ": 42.0
+              "RotationY": 270.0,
+              "SizeX": 42.0,
+              "SizeZ": 8.0
             },
             {
               "PrefabIndex": 0,
-              "PositionX": 17.0,
+              "PositionX": -21.0,
               "PositionZ": 0.0,
-              "RotationY": 0.0,
-              "SizeX": 8.0,
-              "SizeZ": 42.0
+              "RotationY": 90.0,
+              "SizeX": 42.0,
+              "SizeZ": 8.0
             }
           ]
         },
         {
-          "StartingZoneName": "Corners A",
+          "StartingZoneName": "Soft Corners A",
           "StartingZonePrimitiveDatas": [
             {
               "PrefabIndex": 4,
@@ -68,9 +68,35 @@
               "SizeZ": 14.0
             }
           ]
+        },
+        {
+          "StartingZoneName": "Center Line N/S",
+          "StartingZonePrimitiveDatas": [
+            {
+              "PrefabIndex": 0,
+              "PositionX": 0.0,
+              "PositionZ": -0.1,
+              "RotationY": 0.0,
+              "SizeX": 42.0,
+              "SizeZ": 0.2
+            }
+          ]
+        },
+        {
+          "StartingZoneName": "Center Line E/W",
+          "StartingZonePrimitiveDatas": [
+            {
+              "PrefabIndex": 0,
+              "PositionX": -0.1,
+              "PositionZ": 0.0,
+              "RotationY": 90.0,
+              "SizeX": 42.0,
+              "SizeZ": 0.2
+            }
+          ]
         }
       ],
-      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets/SkirmishDemoRuleset/MatArrayData/MattMan.png"
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/SkirmishDemoRuleset/MatArrayData/MattMan.png"
     }
   ]
 }

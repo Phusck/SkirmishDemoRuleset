@@ -563,7 +563,7 @@
     },
     {
       "FigurineTemplateName": "Ogre Cannoneer",
-      "BaseName": "Very Big",
+      "BaseName": "Big",
       "Stats": [
         {
           "FigurineStatCreatorData": {
@@ -863,7 +863,7 @@
       ],
       "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
       "Health": 5,
-      "SizeFactor": 1.171,
+      "SizeFactor": 1.173,
       "XOffSet": 0.0,
       "AugmentationsNames": [],
       "PovHeight": 0.0

@@ -281,24 +281,6 @@
             "MatName": "MattMan",
             "TerrainPiecesOnTable": [
                 {
-                    "TerrainPieceName": "Skov",
-                    "Position": {
-                        "x": 2.4815680980682375,
-                        "y": 0.0,
-                        "z": 0.4284029006958008
-                    },
-                    "yRotation": 0.0
-                },
-                {
-                    "TerrainPieceName": "Fence Gate",
-                    "Position": {
-                        "x": 2.3864731788635256,
-                        "y": 0.0,
-                        "z": 8.766510009765625
-                    },
-                    "yRotation": 0.0
-                },
-                {
                     "TerrainPieceName": "Annex",
                     "Position": {
                         "x": -5.323356628417969,
